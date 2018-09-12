@@ -27,7 +27,7 @@ See more in [Jessegers installation docs](https://github.com/jenssegers/laravel-
 Installation using composer
 
 ```
-composer require solucionatico/laravel-passport-mongodb
+composer require solucionatico/laravel-passport-mongodb:master
 ```
 
 Follow the installation guide from [Laravel Passport installation docs](https://laravel.com/docs/5.6/passport#installation)

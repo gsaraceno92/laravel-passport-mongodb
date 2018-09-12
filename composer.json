@@ -1,7 +1,7 @@
 {
     "name": "solucionatico/laravel-passport-mongodb",
     "description": "Laravel Passport provides OAuth2 server support to Laravel with MongoDB Jenssegers.",
-    "keywords": ["laravel", "passport", "oauth"],
+    "keywords": ["laravel", "passport", "oauth", "mongodb"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/solucionatico/laravel-passport-mongodb/issues",
@@ -42,7 +42,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "8.0-dev"
+            "dev-master": "master"
         },
         "laravel": {
             "providers": [
